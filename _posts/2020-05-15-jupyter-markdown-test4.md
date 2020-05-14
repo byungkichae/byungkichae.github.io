@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jupyter note test 2"
+title: "jupyter note test 4"
 categories: misc
 ---
 
@@ -140,6 +140,7 @@ py.iplot(fig, filename = 'test_3D')
 
 
 
-```python
+# Test chart
 
-```
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~nchae8/157.embed"></iframe>
+
