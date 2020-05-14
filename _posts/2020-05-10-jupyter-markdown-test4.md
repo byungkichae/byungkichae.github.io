@@ -140,7 +140,4 @@ py.iplot(fig, filename = 'test_3D')
 
 
 
-# Test chart
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~nchae8/157.embed"></iframe>
 
