@@ -14,7 +14,7 @@ import chart_studio.plotly as py
 import plotly.graph_objects as go
 import chart_studio
 
-chart_studio.tools.set_credentials_file(username='nchae8', api_key='gUleU1WNyzgo1rDMjrbB')
+chart_studio.tools.set_credentials_file(username='nchae8', api_key='*******')
 
 chart_studio.tools.set_config_file(sharing='public')
 trace0 = go.Scatter(
